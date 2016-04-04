@@ -1,0 +1,28 @@
+{
+  "name": "express-bootstrap",
+  "version": "1.0.0",
+  "description": "A starter template for apps made with Express.js and Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rljusticio/express-bootstrap.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "bootstrap",
+    "template"
+  ],
+  "author": "Justin Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rljusticio/express-bootstrap/issues"
+  },
+  "homepage": "https://github.com/rljusticio/express-bootstrap#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
