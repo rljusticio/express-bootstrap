@@ -4,7 +4,8 @@
   "description": "A starter template for apps made with Express.js and Bootstrap",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node Server.js"
   },
   "repository": {
     "type": "git",
